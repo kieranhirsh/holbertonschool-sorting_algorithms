@@ -5,7 +5,6 @@
  * insertion_sort_list - sorts a list in ascending order using insertion sort
  * @list: the doubly linked list
  *
- * Return: Always 0
  */
 void insertion_sort_list(listint_t **list)
 {
